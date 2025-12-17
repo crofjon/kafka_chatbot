@@ -1,0 +1,5 @@
+{
+  "name": "Copy of KafkaPulse: AI Connection Monitor",
+  "description": "A sophisticated dashboard for monitoring active Confluent Kafka connections with integrated AI analysis to detect anomalies and interpret traffic patterns.",
+  "requestFramePermissions": []
+}
